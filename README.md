@@ -7,3 +7,8 @@ Day-1:
  Converted date formats to a consistent type (e.g., dd-mm-yyyy).
  Rename column headers.
  Check and fix data types.
+Day-2:
+ Data visualization using PowerBI tool.
+ created slides of charts.
+Day-3:
+  Used SQL queries to extract and analyze data from a database.
